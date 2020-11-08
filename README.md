@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Gabriel Pinós Camargo's github stats](https://github-readme-stats.vercel.app/api?username=GabrielPCamargo)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel Pinós Camargo's github stats](https://github-readme-stats.vercel.app/api?username=GabrielPCamargo)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPCamargo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GabrielPCamargo/GabrielPCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
